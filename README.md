@@ -21,6 +21,16 @@ This Python automation script scrapes content from multiple Kazakh news websites
 - deep_translator
 - pandas
 
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SivaAdeesh27/Kazakh-Corpus-Translation.git
+     
+2. Install the required dependencies:
+    ```bash
+   pip install -r requirements.txt
+
 
 ## Usage
 
