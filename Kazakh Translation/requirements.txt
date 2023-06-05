@@ -1,1 +1,10 @@
+beautifulsoup4
+html2text
+urllib3
+sinling
+deep_translator
+pandas
+regex
+schedule
+requests
 
